@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning js and dsa
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me shubhamsoniiiiii
+- 📫 How to reach me shubhamsoni2240@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
